@@ -21,4 +21,4 @@ https://elib.dlr.de/115220/1/Reuss_MA.pdf
 
   
 ### Work with us  
-Please submit your issue and ideas and how you think AI/ML could help
+Please submit yourideas [here](https://github.com/caiomsouza/ai4favelas/issues/1) and how you think AI/ML could help
