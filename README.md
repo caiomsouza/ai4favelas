@@ -2,7 +2,7 @@
 
 Can AI help improve the lives of people living in Favelas? 
 
-This inicitiave has the desire to use AI and Machine Learning to help reduce poverty in Brazil and in the World. 
+This initiative has the desire to use AI and Machine Learning to help reduce poverty in Brazil and in the World. 
 
 We were inspired by Brazil’s Gerando Falcões Aims To Eradicate Poverty With Smart Slums.
 https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/?sh=548c1ccdc7b3
