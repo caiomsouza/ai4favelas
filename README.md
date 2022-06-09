@@ -26,6 +26,6 @@ We need help and inspiration. <BR>
 
 How can AI/ML help reduce poverty and improve the lives of people living in Favelas? <BR>
 
-Let's use work together, please submit your ideas and how AI/ML can help reduce poverty and improve the lives of people living in Favelas.<BR>
+Let's use work together, please submit your ideas and how can AI/ML can help reduce poverty and improve the lives of people living in Favelas.<BR>
     
 Please submit your ideas [here](https://github.com/caiomsouza/ai4favelas/issues/1) and how you think AI/ML could help. <BR>
