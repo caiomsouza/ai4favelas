@@ -18,15 +18,6 @@ As a result of increasing urbanization, the number will increase significantly i
 
 With a total number of 11 million dwellers, Favelas are a major urban policy issue in Brazil.<BR>
 
-
-### Links:
-https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/?sh=548c1ccdc7b3 <BR>
-https://www.bbc.co.uk/bitesize/guides/zqdkkqt/revision/11 <BR>
-https://www.reuters.com/article/us-brazil-slums-solutions-idUSKBN1GH2QH <BR>
-
-### Academic
-https://elib.dlr.de/115220/1/Reuss_MA.pdf
-
   
 ### Work with us  
 
@@ -37,3 +28,11 @@ How can AI/ML help reduce poverty and improve the lives of people living in Fave
 Let's use work together, please submit your ideas and how can AI/ML can help reduce poverty and improve the lives of people living in Favelas.<BR>
     
 Please submit your ideas [here](https://github.com/caiomsouza/ai4favelas/issues/1) and how you think AI/ML could help. <BR>
+
+### Links:
+https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/?sh=548c1ccdc7b3 <BR>
+https://www.bbc.co.uk/bitesize/guides/zqdkkqt/revision/11 <BR>
+https://www.reuters.com/article/us-brazil-slums-solutions-idUSKBN1GH2QH <BR>
+
+### Academic
+https://elib.dlr.de/115220/1/Reuss_MA.pdf
