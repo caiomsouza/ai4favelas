@@ -11,6 +11,14 @@ https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-f
 
 Brazilian shantytown, favela, also spelled favella, in Brazil, a slum or shantytown located within or on the outskirts of the country's large cities, especially Rio de Janeiro and São Paulo. A favela typically comes into being when squatters occupy vacant land at the edge of a city and construct shanties of salvaged or stolen materials. Source: https://www.britannica.com/topic/favela
 
+### The size of the problem
+
+According to the United Nations, almost a third of the world's urban population lives in slums. <BR>
+As a result of increasing urbanization, the number will increase significantly in the future. Up to 2 billion people may live in slums in 2030. <BR><BR>
+
+With a total number of 11 million dwellers, Favelas are a major urban policy issue in Brazil.<BR>
+
+
 ### Links:
 https://www.forbes.com/sites/angelicamarideoliveira/2021/01/06/brazils-gerando-falces-aims-to-eradicate-misery-with-smart-slums/?sh=548c1ccdc7b3 <BR>
 https://www.bbc.co.uk/bitesize/guides/zqdkkqt/revision/11 <BR>
