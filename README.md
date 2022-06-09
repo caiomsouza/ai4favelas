@@ -14,8 +14,7 @@ Brazilian shantytown, favela, also spelled favella, in Brazil, a slum or shantyt
 ### The size of the problem
 
 According to the United Nations, almost a third of the world's urban population lives in slums. <BR>
-As a result of increasing urbanization, the number will increase significantly in the future. Up to 2 billion people may live in slums in 2030. <BR><BR>
-
+As a result of increasing urbanization, the number will increase significantly in the future. Up to 2 billion people may live in slums in 2030. <BR>
 With a total number of 11 million dwellers, Favelas are a major urban policy issue in Brazil.<BR>
 
   
